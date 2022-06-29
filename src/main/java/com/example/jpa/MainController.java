@@ -1,2 +1,10 @@
-package com.example.jpa;public class MainController {
+package com.example.jpa;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class MainController {
+
+
+
 }
